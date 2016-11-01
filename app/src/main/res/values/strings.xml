@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments App</string>
+    <string name="portrait_message">Hello Portrait</string>
+    <string name="landscape_message">Hello Landscape</string>
+</resources>
