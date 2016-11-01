@@ -8,10 +8,12 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    // TODO: https://github.com/nncl/fiap-android-09-fragments/issues/1
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // setContentView(R.layout.activity_main);
+         setContentView(R.layout.activity_main);
 
         /*
          * Lets get the configuration cause we'll change as well as the user rotates
